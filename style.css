@@ -1,0 +1,19 @@
+.container {
+  width: 800px;
+  height: 800px;
+  display: grid;
+  gap: 0;
+  grid-auto-rows: max-content;
+}
+
+.square {
+  border: 1px solid black;
+}
+
+.hovered {
+  background-color: black;
+}
+
+.drawn {
+  background-color: black;
+}

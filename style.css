@@ -14,6 +14,10 @@
   background-color: black;
 }
 
-.drawn {
-  background-color: black;
+.controls {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  width: 800px;
+  margin-top: 20px;
 }
